@@ -12,7 +12,6 @@
 		E9AE59A5218A69D300F08143 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9AE59A4218A69D300F08143 /* Assets.xcassets */; };
 		E9AE59A8218A69D300F08143 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9AE59A6218A69D300F08143 /* LaunchScreen.storyboard */; };
 		E9D4347C218A7299008A16EB /* ImageViewCVcell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9D4347B218A7299008A16EB /* ImageViewCVcell.swift */; };
-		E9D4347E218A8543008A16EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9D4347D218A8543008A16EB /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +22,6 @@
 		E9AE59A7218A69D300F08143 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9AE59A9218A69D300F08143 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E9D4347B218A7299008A16EB /* ImageViewCVcell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewCVcell.swift; sourceTree = "<group>"; };
-		E9D4347D218A8543008A16EB /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../../../.Trash/Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +57,6 @@
 				E9AE599D218A69D200F08143 /* AppDelegate.swift */,
 				E9AE599F218A69D200F08143 /* ViewController.swift */,
 				E9D4347B218A7299008A16EB /* ImageViewCVcell.swift */,
-				E9D4347D218A8543008A16EB /* Main.storyboard */,
 				E9AE59A4218A69D300F08143 /* Assets.xcassets */,
 				E9AE59A6218A69D300F08143 /* LaunchScreen.storyboard */,
 				E9AE59A9218A69D300F08143 /* Info.plist */,
@@ -125,7 +122,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E9D4347E218A8543008A16EB /* Main.storyboard in Resources */,
 				E9AE59A8218A69D300F08143 /* LaunchScreen.storyboard in Resources */,
 				E9AE59A5218A69D300F08143 /* Assets.xcassets in Resources */,
 			);
